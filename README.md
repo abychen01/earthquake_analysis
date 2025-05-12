@@ -92,6 +92,9 @@ This project is an automated data pipeline for analyzing global earthquake data 
 
 * **Databricks Workflow**: Orchestrates execution of Bronze → Silver → Gold notebooks.
 * **Task Value Sharing**: Paths and metadata are passed between notebooks using `dbutils.jobs.taskValues`.
+<br>
+<img width="1414" alt="image" src="https://github.com/user-attachments/assets/a9f59ec4-b60e-494e-aba9-e38ec887986f" />
+
 
 ---
 
